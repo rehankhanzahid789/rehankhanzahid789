@@ -31,7 +31,7 @@ Most junior profiles ask you to trust a resume — mine gives you a live product
 
 I'm **Rehan Zahid**, a full-stack web developer based in Islamabad, Pakistan. I studied Computer Science (ICS) and then specialized in web development through **Bano Qabil's** program — so what's in my repos isn't tutorial-copied, it's built on fundamentals. Right now I'm freelancing and looking for an **internship or junior developer seat in Islamabad**, where the codebase and the stakes are real.
 
-> 💬 Reply with a project you've worked on, and I'll tell you what I'd have built differently — that's a better first conversation than "let's connect."
+> 💬 If you've got a project worth discussing, send it over — I'd rather talk about real code than exchange generic messages.
 
 ---
 
