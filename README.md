@@ -50,6 +50,10 @@ Beyond that, my GitHub has full-stack **PHP/MySQL** projects built end-to-end, b
 
 - **[Bite-Rush](https://github.com/rehankhanzahid789/Bite-Rush)** — restaurant ordering system built to feel like a real food-delivery platform
 - **[Sky-Cast](https://github.com/rehankhanzahid789/Sky-Cast)** — full-stack weather app
+- **[Task-Flow](https://github.com/rehankhanzahid789/Task-Flow)** — SaaS-style task manager with drag-and-drop boards, multi-workspace support, and a stats dashboard
+- **[Talk-Nest](https://github.com/rehankhanzahid789/Talk-Nest)** — real-time-style 1-to-1 chat app using AJAX polling, no WebSockets
+- **[Mind-Metric](https://github.com/rehankhanzahid789/Mind-Metric)** — IQ/aptitude testing platform with timed assessments, category scoring, and analytics dashboard
+- **[Horizon-Prime](https://github.com/rehankhanzahid789/Horizon-Prime)** — luxury real estate platform with property listings, agent management, and an admin panel
 - **[Velora](https://github.com/rehankhanzahid789/Velora)** — dark, editorial-style blogging platform (vanilla PHP + MySQL, no frameworks)
 - **[Brew-Map](https://github.com/rehankhanzahid789/Brew-Map)** — cafe discovery platform pulling live data from OpenStreetMap's Overpass API
 - **[LMS](https://github.com/rehankhanzahid789/LMS)** — Learning Management System with admin panel, courses, faculty, and student management
