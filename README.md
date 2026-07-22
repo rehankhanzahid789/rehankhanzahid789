@@ -37,22 +37,23 @@ I'm **Rehan Zahid**, a full-stack web developer based in Islamabad, Pakistan. I 
 
 ### 🚀 What I'm Building
 
-**[FreeToolsHub](https://rehankhanzahid789.github.io)** — a free utility tools website, live and hosted right now, built solo with vanilla HTML, CSS, and JavaScript (no frameworks).
+**[FreeToolsHub](https://rehankhanzahid789.github.io/FreeToolsHub/)** — a free utility tools website, live and hosted right now, built solo with vanilla HTML, CSS, and JavaScript (no frameworks).
 
 | | |
 |---|---|
 | **Status** | Live, hosted on GitHub Pages, running ads (Adsterra) |
-| **Tools shipped** | 10 — QR Generator, QR Reader, Password Generator, Color Picker, Unit Converter, Timezone Converter, Word Counter, Base64 Encoder/Decoder, JSON Formatter, Case Converter |
+| **Tools shipped** | 35+ and growing — calculators (Age, BMI, Loan/EMI, Tip, Percentage, Discount), generators (QR, Password, UUID, Lorem Ipsum, Invoice), converters (Unit, Timezone, CSV→JSON, Base64), dev tools (JSON Formatter, Regex Tester, JWT Decoder, Hash Generator), and design tools (Color Picker, CSS Gradient/Box-Shadow Generator) — [see the full list →](https://rehankhanzahid789.github.io/FreeToolsHub/) |
 | **Architecture** | `js/tools.json` drives dynamic card rendering; each tool is a self-contained folder — adding a new tool takes one folder + one JSON entry |
 | **Notable fix** | Solved an Adsterra `atOptions` global-variable collision by isolating each ad slot in its own `<iframe srcdoc>` |
 
 Beyond that, my GitHub has full-stack **PHP/MySQL** projects built end-to-end, backend included:
 
-- **BiteRush**
-- **TaskFlow**
-- **TalkNest**
-- **SkyCast**
-- **Mind Metric**
+- **[Bite-Rush](https://github.com/rehankhanzahid789/Bite-Rush)** — restaurant ordering system built to feel like a real food-delivery platform
+- **[Sky-Cast](https://github.com/rehankhanzahid789/Sky-Cast)** — full-stack weather app
+- **[Velora](https://github.com/rehankhanzahid789/Velora)** — dark, editorial-style blogging platform (vanilla PHP + MySQL, no frameworks)
+- **[Brew-Map](https://github.com/rehankhanzahid789/Brew-Map)** — cafe discovery platform pulling live data from OpenStreetMap's Overpass API
+- **[LMS](https://github.com/rehankhanzahid789/LMS)** — Learning Management System with admin panel, courses, faculty, and student management
+- **[TheMotorCrew](https://github.com/rehankhanzahid789/TheMotorCrew)** — vehicle information management showcase site
 
 ---
 
